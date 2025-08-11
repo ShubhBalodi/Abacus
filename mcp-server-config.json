@@ -1,8 +1,8 @@
 {
-    "mcpServers": {
-      "airbnb": {
-        "command": "uv",
-        "args": ["run", "main.py"]
-      }
+    "mcpServers":{
+        "tic-tac-toe":{
+            "command":"python3",
+            "args": ["/Users/shubhbalodi/Desktop/project_mcp_game_start_ShubhBalodi/main.py"]
+        }
     }
 }

@@ -77,7 +77,7 @@ tool_list = [
     ),
     Tool(
         name="show_board",
-        description="Show the current board and game state",
+        description="Show the current board and game state. Also shows the player who needs to make a move (ex- 'X' or 'O')",
         inputSchema={"type": "object", "properties": {}, "required": []}
     ),
     Tool(
